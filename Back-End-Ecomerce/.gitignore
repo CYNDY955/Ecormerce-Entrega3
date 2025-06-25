@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Build / Logs
+dist/
+build/
+npm-debug.log*
+
+# Env variables
+.env
+.env.local
+
+# Editor settings
+.vscode/
+.idea/
+
+# System
+.DS_Store
